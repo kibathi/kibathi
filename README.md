@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kibathi
 - 👀 I’m interested in APIs
-- 🌱 I’m currently learning Python
+- 🌱 I love coding Python
 - 💞️ I’m looking to collaborate on Web 3 projects
 - 📫 How to reach me on bernardkibathi@gmail.com
 
