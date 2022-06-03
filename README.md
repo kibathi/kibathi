@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kibathi
-- 👀 I’m interested in APIs
-- 🌱 I love coding in Python
-- 💞️ I’m looking to collaborate on Web 3 projects
+- 👋 Hi, I’m @kibathi 
+- 👀 I’m interested in APIs, hardware engineering and hardware fabrication.
+- 🌱 I love coding in Python and C++.
+- 💞️ I’m looking to collaborate IoT, Web 3 and hardware engineering projects
 - 📫 How to reach me on bernardkibathi@gmail.com
 
 <!---
